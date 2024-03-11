@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyinJoester&show_icons=true&theme=midnight-purple)   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyinJoester&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 
 
 <font><h1>员工待遇<h1></font>
