@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Joyin的养猪场在线招工;&size=30px;)](https://git.io/typing-svg)<br>
+<img src="跟我养猪_ba-style@nulla.top (1).png" alt="">
+<br>
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyinJoester&show_icons=true&theme=midnight-purple) |![B站统计](https://stats.justsong.cn/api/bilibili/?id=487993033&theme=dark)|
