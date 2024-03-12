@@ -5,7 +5,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyinJoester&show_icons=true&theme=midnight-purple) |![B站统计](https://stats.justsong.cn/api/bilibili/?id=487993033&theme=dark)|
 |![](https://count.getloli.com/get/@JoyinJoester.github.readme)|[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)                          ![tip](https://badgen.net/badge/php/8.1/orange?icon=php)                                   ![tip](https://badgen.net/badge/python/3.1.6/green?icon=packagephobia)|
-
+|<img src="/image/Mantic.png" alt="" width="300px">|<img src="/image/Windows 11.png" alt="" width="300px">|
 <img src="/image/gdyg.png" alt="">
 
 
