@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Joyin的养猪场在线招工&21华珑1曹国昊14号考试望周知;&size=30px;)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=21华珑1曹国昊14号考试望周知;&size=30px;)](https://git.io/typing-svg)<br>
 <img src="/image/yz.png" alt="">
 <br>
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
