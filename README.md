@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JoyinJoester;&size=30px;)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Joyin;&size=30px;)](https://git.io/typing-svg)<br>
 <img src="image/JoyinJoester_ba-style@nulla.top (1).png" alt="">
 <br>
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
