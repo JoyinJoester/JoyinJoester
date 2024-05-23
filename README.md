@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Joyin的养猪场在线招工;&size=30px;)](https://git.io/typing-svg)<br>
-<img src="/image/yz.png" alt="">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=JoyinJoester;&size=30px;)](https://git.io/typing-svg)<br>
+<img src="image/JoyinJoester_ba-style@nulla.top (1).png" alt="">
 <br>
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
