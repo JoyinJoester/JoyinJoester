@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Joyin;&size=30px;)](https://git.io/typing-svg)<br>
 <img src="image/JoyinJoester_ba-style@nulla.top (1).png" alt="">
 <br>
-<h1>2006年被评为年度美国时代周刊风云人物，2008年感动中国组委会大奖获得者，2019年获得年度地球卫士奖，2022年奥林匹克杯获得者;</h1>
-<br>
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyinJoester&show_icons=true&theme=midnight-purple) |![B站统计](https://stats.justsong.cn/api/bilibili/?id=487993033&theme=dark)|
