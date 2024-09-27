@@ -37,29 +37,6 @@ graph TD;
 <!-- Belarus - My Home-->
   
  ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [150.5,23.9],
-             [92.6,62.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
 
 <font><h1>员工待遇<h1></font>
 	<ul>
