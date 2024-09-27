@@ -34,9 +34,6 @@ graph TD;
    ```
    
  
-<!-- Belarus - My Home-->
-  
- ```geojson
 
 <font><h1>员工待遇<h1></font>
 	<ul>
