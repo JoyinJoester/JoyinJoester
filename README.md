@@ -1,6 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Joyin;&size=30px;)](https://git.io/typing-svg)<br>
 <img src="image/JoyinJoester_ba-style@nulla.top (1).png" alt="">
 <br>
+<!-- snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="95%" />
+  </picture>
+</div>
+<br>
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoyinJoester&show_icons=true&theme=midnight-purple) |![B站统计](https://stats.justsong.cn/api/bilibili/?id=487993033&theme=dark)|
@@ -11,14 +20,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyinJoester&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mushi0/Mushi0/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" width="95%" />
-  </picture>
-</div>
+
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)                                                                                                                                                                                                                                                                                                                                                               |
