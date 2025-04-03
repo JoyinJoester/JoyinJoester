@@ -9,7 +9,6 @@
   </picture>
 <br>
 
-![skills](https://skillicons.dev/icons?i=c,py,html,css,js,nodejs,java,md,pytorch,qt,react,cmake,docker,git,linux,nginx,githubactions,visualstudio,vscode)
 
 | My Github stats                                                                                                                                  | bilibili                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -20,6 +19,9 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoyinJoester&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![skills](https://skillicons.dev/icons?i=c,py,html,css,js,nodejs,java,md,pytorch,qt,react,cmake,docker,git,linux,nginx,githubactions,visualstudio,vscode)
 
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                      |
