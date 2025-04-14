@@ -10,7 +10,7 @@
   </picture>
 <br>
 
-![skills](https://skillicons.dev/icons?i=c,py,html,css,js,nodejs,java,md,react,cmake,docker,git,linux,visualstudio,vscode)
+![skills](https://skillicons.dev/icons?i=c,py,html,css,js,java,md,react,cmake,docker,git,linux,visualstudio,vscode,rust)
 
 
 
