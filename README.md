@@ -2,8 +2,7 @@
 <img src="image/JoyinJoester_ba-style@nulla.top (1).png" alt="">
 <br>
 
-<!-- 在 README.md 中只保留 div -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="08f0b165-4560-4049-af85-04d229600786" data-share-badge-host="https://www.credly.com"></div>
+[![Credly Badge](https://www.credly.com/badges/08f0b165-4560-4049-af85-04d229600786/public_url)](https://www.credly.com/badges/08f0b165-4560-4049-af85-04d229600786/public_url)
 
 <!-- snake -->
   <picture>
