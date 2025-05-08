@@ -2,8 +2,7 @@
 <img src="image/JoyinJoester_ba-style@nulla.top (1).png" alt="">
 <br>
 
-[![Credly Badge](https://www.credly.com/badges/08f0b165-4560-4049-af85-04d229600786/public_url)](https://www.credly.com/badges/08f0b165-4560-4049-af85-04d229600786/public_url)
-
+[![Credly Badge](https://img.shields.io/badge/Credly-AWS_Certified-blue?logo=amazonaws&style=for-the-badge&link=https://www.credly.com/badges/08f0b165-4560-4049-af85-04d229600786/public_url)](https://www.credly.com/badges/08f0b165-4560-4049-af85-04d229600786/public_url)
 <!-- snake -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoyinJoester/JoyinJoester/blob/output/github-snake-dark.svg" />
